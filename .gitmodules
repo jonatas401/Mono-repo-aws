@@ -1,0 +1,9 @@
+[submodule "Aws-Cognito-Lambda-Java"]
+	path = Aws-Cognito-Lambda-Java
+	url = https://github.com/jonatas401/Aws-Cognito-Lambda-Java
+[submodule "Aws-Dynamodb-Lambda-Java"]
+	path = Aws-Dynamodb-Lambda-Java
+	url = https://github.com/jonatas401/Aws-Dynamodb-Lambda-Java
+[submodule "Aws-Angular-ApiGateway"]
+	path = Aws-Angular-ApiGateway
+	url = https://github.com/jonatas401/Aws-Angular-ApiGateway
